@@ -1,1 +1,3 @@
 hey friends it's my second git file
+
+this is is sinan
