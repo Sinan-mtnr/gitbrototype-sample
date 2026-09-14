@@ -1,0 +1,10 @@
+git config --global user.name "sinan"
+git config --global user.email "sinan@gmail.com"
+git init
+git add
+git status
+git commit -m "initial commit"
+git log 
+git checkout <with id>
+git log --all
+git checkout main
