@@ -8,3 +8,6 @@ git log
 git checkout <with id>
 git log --all
 git checkout main
+
+git branch <branch_name>
+git branch <feature>
